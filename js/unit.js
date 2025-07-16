@@ -1,4 +1,4 @@
-class Worker {
+class Unit {
     constructor(x, y) {
         this.x = x;
         this.y = y;
